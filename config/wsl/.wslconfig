@@ -1,0 +1,8 @@
+[wsl2]
+memory=12884901888
+swap=4294967296
+firewall=false
+dnsProxy=false
+networkingMode=Mirrored
+[experimental]
+hostAddressLoopback=true

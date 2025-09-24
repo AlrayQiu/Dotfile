@@ -12,4 +12,7 @@ Set-Location -Path $PSScriptRoot
 # Setup
 
 # debloat
+. '.\scripts\install-software.ps1' # apps
 . '.\scripts\win11debloat.ps1' # windows
+. '.\scripts\install-wsl.ps1' # wsl
+. '.\scripts\flow-launcher-plugins.ps1'
