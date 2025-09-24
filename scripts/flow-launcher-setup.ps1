@@ -35,7 +35,7 @@ Expand-Archive -Path "$env:Temp\winhotkey.zip" -DestinationPath "$PluginPath\Win
 
 # google translate
 Invoke-WebRequest `
-    -Uri "https://github.com/ralosant/FlowLauncher.Google.Translator" `
-    -OutFile "$env:Temp\googletranslate.zip"
-Remove-Item  -Path  "$PluginPath\Google Translate-*" -Force -Recurse 
-Expand-Archive -Path "$env:Temp\googletranslate.zip" -DestinationPath "$PluginPath\Google Translate-1.1.1" -Force
+    -Uri "https://github.com/Lu-Jiejie/flow-launcher-multi-translate/releases/download/v0.2.5/MultiTranslate-0.2.5.zip" `
+    -OutFile "$env:Temp\MultiTranslate.zip"
+Remove-Item  -Path  "$PluginPath\MultiTranslate-*" -Force -Recurse 
+Expand-Archive -Path "$env:Temp\MultiTranslate.zip" -DestinationPath "$PluginPath\MultiTranslate-0.2.5" -Force

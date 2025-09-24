@@ -156,7 +156,7 @@
   "CustomWindowTop": 0,
   "KeepMaxResults": false,
   "MaxResultsToShow": 5,
-  "ActivateTimes": 177,
+  "ActivateTimes": 212,
   "CustomPluginHotkeys": [],
   "CustomShortcuts": [],
   "DontPromptUpdateMsg": false,
@@ -185,7 +185,7 @@
   "AnimationSpeed": "Medium",
   "CustomAnimationLength": 360,
   "PluginSettings": {
-    "PythonExecutablePath": "C:\\Users\\alray\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe",
+    "PythonExecutablePath": "C:\\Users\\alray\\AppData\\Roaming\\FlowLauncher\\Environments\\Python\\PythonEmbeddable-v3.11.4\\pythonw.exe",
     "NodeExecutablePath": "C:\\Program Files\\nodejs\\node.exe",
     "Plugins": {
       "0ECADE17459B49F587BF81DC3A125110": {
@@ -363,24 +363,24 @@
         "Disabled": false,
         "HomeDisabled": false
       },
-      "e47fca5f-4305-4c14-9928-57d2c319d78e": {
-        "ID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
-        "Name": "Google Translate",
-        "Version": "1.1.1",
-        "ActionKeywords": [
-          "tr"
-        ],
-        "Priority": 0,
-        "SearchDelayTime": null,
-        "Disabled": false,
-        "HomeDisabled": false
-      },
       "826ad749-44df-47c5-84da-85c42d22cfd7": {
         "ID": "826ad749-44df-47c5-84da-85c42d22cfd7",
         "Name": "Used-By",
         "Version": "0.0.5",
         "ActionKeywords": [
           "used"
+        ],
+        "Priority": 0,
+        "SearchDelayTime": null,
+        "Disabled": true,
+        "HomeDisabled": false
+      },
+      "82df0b26-6ed3-1c0d-460f-99789fd5d0c4": {
+        "ID": "82df0b26-6ed3-1c0d-460f-99789fd5d0c4",
+        "Name": "MultiTranslate",
+        "Version": "0.2.5",
+        "ActionKeywords": [
+          "tr"
         ],
         "Priority": 0,
         "SearchDelayTime": null,

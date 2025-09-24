@@ -167,6 +167,50 @@
     {
       "Query": "used %temp%/win11debloat",
       "ExecutedDateTime": "2025-09-24T15:50:29.3382297+08:00"
+    },
+    {
+      "Query": "used :ifr  win11de",
+      "ExecutedDateTime": "2025-09-24T15:57:04.8836033+08:00"
+    },
+    {
+      "Query": "note",
+      "ExecutedDateTime": "2025-09-24T15:57:42.7453071+08:00"
+    },
+    {
+      "Query": "tr zh:\u4F60\u597D en",
+      "ExecutedDateTime": "2025-09-24T15:59:48.4833558+08:00"
+    },
+    {
+      "Query": "tr zh:\u4F60\u597D :en",
+      "ExecutedDateTime": "2025-09-24T16:00:25.1666291+08:00"
+    },
+    {
+      "Query": "google translat",
+      "ExecutedDateTime": "2025-09-24T16:01:03.4487852+08:00"
+    },
+    {
+      "Query": "tr cn want this",
+      "ExecutedDateTime": "2025-09-24T16:03:31.7191266+08:00"
+    },
+    {
+      "Query": "tr en:zh \u6211\u9700\u8981\u8FD9\u4E2A",
+      "ExecutedDateTime": "2025-09-24T16:05:04.5181889+08:00"
+    },
+    {
+      "Query": "tr :zh-TW my translation",
+      "ExecutedDateTime": "2025-09-24T16:09:25.8851403+08:00"
+    },
+    {
+      "Query": "b trans",
+      "ExecutedDateTime": "2025-09-24T16:44:52.3482903+08:00"
+    },
+    {
+      "Query": "tr :en \u7B14\u8BEF",
+      "ExecutedDateTime": "2025-09-24T16:46:30.8597258+08:00"
+    },
+    {
+      "Query": "tt :set zh-CN en",
+      "ExecutedDateTime": "2025-09-24T16:59:46.2043912+08:00"
     }
   ]
 }

@@ -1,5 +1,7 @@
 # Dotfile for Windows11
 
+!!! warning 小白随意使用可能导致系统崩溃
+
 ## 快速安装
 ```pwsh
 Invoke-RestMethod "https://raw.githubusercontent.com/AlrayQiu/Dotfile/refs/heads/windows11/Get.ps1" | Invoke-Expression
@@ -8,7 +10,6 @@ Invoke-RestMethod "https://raw.githubusercontent.com/AlrayQiu/Dotfile/refs/heads
 ## 做了什么？
 ### 软件安装
 - vscode
-- python3.11 (for flow.plugin)
 - flow launcher
 - powershell 7
 - windows terminal
@@ -29,5 +30,5 @@ Invoke-RestMethod "https://raw.githubusercontent.com/AlrayQiu/Dotfile/refs/heads
 #### FlowLauncher
 - FendCalculator-1.1.1
 - GitHub-1.3.1 
-- Google Translate-1.1.1 
+- MultiTranslate-0.2.5 
 - Win Hotkey-4.0.0

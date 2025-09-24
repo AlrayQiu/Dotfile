@@ -1,3 +1,12 @@
 {
-  "records": {}
+  "records": {
+    "tr en:zh \u6211\u9700\u8981\u8FD9\u4E2A": [
+      {
+        "Title": "zh: I need this",
+        "SubTitle": "en: \u6211\u9700\u8981\u8FD9\u4E2A",
+        "PluginID": "e47fca5f-4305-4c14-9928-57d2c319d78e",
+        "RecordKey": null
+      }
+    ]
+  }
 }

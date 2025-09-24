@@ -1,0 +1,12 @@
+{
+  "targetLanguageCode": "en",
+  "languagePairs": "",
+  "requestTimeout": "3000",
+  "services": "youdao\ndeepl\ngoogle\nbing",
+  "sourceLanguageCode": "auto",
+  "translateDelay": "700",
+  "proxyUrl": "",
+  "triggerKeyword": "tr",
+  "serviceConfigs": "",
+  "interfaceLanguage": "English"
+}
