@@ -1,0 +1,22 @@
+# Profile Enhancement Merge Template for Clash Verge
+
+profile:
+  store-selected: true
+
+dns:
+  use-system-hosts: false
+
+rules:
+  - 'DOMAIN,github.com,新华云'
+  - 'DOMAIN,api.github.com,新华云'
+  - 'DOMAIN,access-point.cloudmessaging.edge.microsoft.com,新华云'
+  - 'DOMAIN,sydney.bing.com,新华云'
+  - 'DOMAIN,browser.pipe.aria.microsoft.com,新华云'
+  - 'DOMAIN,designer.microsoft.com,新华云'
+  - 'DOMAIN,edge.microsoft.com,新华云'
+  - 'DOMAIN,copilot.microsoft.com,新华云'
+  - 'DOMAIN,edgeservices.bing.com,新华云'
+  - 'DOMAIN,functional.events.data.microsoft.com,新华云'
+  - 'DOMAIN,www.bingapis.com,新华云'
+  - 'DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com,新华云'
+  - 'DOMAIN,browser.events.data.microsoft.com,新华云'
