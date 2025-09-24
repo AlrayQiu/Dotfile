@@ -2,7 +2,7 @@
 
 ## 快速安装
 ```pwsh
-Invoke-RestMethod "https://raw.githubusercontent.com/alrayqiu/dotfile/main/get.ps1" | Invoke-Expression
+Invoke-RestMethod "https://raw.githubusercontent.com/AlrayQiu/Dotfile/refs/heads/windows11/Get.ps1" | Invoke-Expression
 ```
 
 ## 做了什么？
