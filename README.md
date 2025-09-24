@@ -1,6 +1,7 @@
 # Dotfile for Windows11
 
-!!! warning 小白随意使用可能导致系统崩溃
+> [!WARNING]  
+> 小白随意使用可能导致系统崩溃
 
 ## 快速安装
 ```pwsh
