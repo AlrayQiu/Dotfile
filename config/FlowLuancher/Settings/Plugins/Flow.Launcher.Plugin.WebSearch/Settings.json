@@ -1,0 +1,42 @@
+{
+  "SearchSources": [
+    {
+      "Title": "Google",
+      "ActionKeyword": "google",
+      "Icon": "google.png",
+      "CustomIcon": false,
+      "Url": "https://www.google.com/search?q={q}",
+      "IsPrivateMode": false,
+      "Enabled": true
+    },
+    {
+      "Title": "Google Scholar",
+      "ActionKeyword": "sc",
+      "Icon": "google.png",
+      "CustomIcon": false,
+      "Url": "https://scholar.google.com/scholar?q={q}",
+      "IsPrivateMode": false,
+      "Enabled": true
+    },
+    {
+      "Title": "Stack Overflow",
+      "ActionKeyword": "stackoverflow",
+      "Icon": "stackoverflow.png",
+      "CustomIcon": false,
+      "Url": "https://stackoverflow.com/search?q={q}",
+      "IsPrivateMode": false,
+      "Enabled": true
+    },
+    {
+      "Title": "Bing",
+      "ActionKeyword": "bing",
+      "Icon": "bing.png",
+      "CustomIcon": false,
+      "Url": "https://www.bing.com/search?q={q}",
+      "IsPrivateMode": false,
+      "Enabled": true
+    }
+  ],
+  "EnableSuggestion": true,
+  "Suggestion": "Bing"
+}
