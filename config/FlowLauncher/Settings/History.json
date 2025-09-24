@@ -95,6 +95,78 @@
     {
       "Query": "file SavedSettings",
       "ExecutedDateTime": "2025-09-24T04:29:08.3327542+08:00"
+    },
+    {
+      "Query": "clash",
+      "ExecutedDateTime": "2025-09-24T05:28:27.9975888+08:00"
+    },
+    {
+      "Query": "gh windows denfender",
+      "ExecutedDateTime": "2025-09-24T05:28:58.4346837+08:00"
+    },
+    {
+      "Query": "gh repos windows denfender",
+      "ExecutedDateTime": "2025-09-24T05:29:24.0968576+08:00"
+    },
+    {
+      "Query": "gh repos",
+      "ExecutedDateTime": "2025-09-24T05:29:38.3002535+08:00"
+    },
+    {
+      "Query": "gh repos windows uninstall",
+      "ExecutedDateTime": "2025-09-24T05:29:57.347242+08:00"
+    },
+    {
+      "Query": "gh tsasioglu/Total-Uninstaller",
+      "ExecutedDateTime": "2025-09-24T05:30:01.1868852+08:00"
+    },
+    {
+      "Query": "file clash",
+      "ExecutedDateTime": "2025-09-24T05:49:19.7978209+08:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-09-24T05:49:23.8857238+08:00"
+    },
+    {
+      "Query": "file clash",
+      "ExecutedDateTime": "2025-09-24T05:49:42.177951+08:00"
+    },
+    {
+      "Query": "file C:\\Program Files\\Clash Verge\\",
+      "ExecutedDateTime": "2025-09-24T05:49:46.9306751+08:00"
+    },
+    {
+      "Query": "file C:\\Program Files\\Clash Verge\\resources\\",
+      "ExecutedDateTime": "2025-09-24T05:49:51.1652529+08:00"
+    },
+    {
+      "Query": "spa",
+      "ExecutedDateTime": "2025-09-24T05:57:11.8547513+08:00"
+    },
+    {
+      "Query": "flow",
+      "ExecutedDateTime": "2025-09-24T06:15:43.3824981+08:00"
+    },
+    {
+      "Query": "\u003E %APPDATA%\\Flo",
+      "ExecutedDateTime": "2025-09-24T14:47:42.2291814+08:00"
+    },
+    {
+      "Query": "clash",
+      "ExecutedDateTime": "2025-09-24T15:20:23.3849401+08:00"
+    },
+    {
+      "Query": "gh repos windows update",
+      "ExecutedDateTime": "2025-09-24T15:20:50.615968+08:00"
+    },
+    {
+      "Query": "gh tsgrgo/windows-update-disabler",
+      "ExecutedDateTime": "2025-09-24T15:20:53.4020879+08:00"
+    },
+    {
+      "Query": "used %temp%/win11debloat",
+      "ExecutedDateTime": "2025-09-24T15:50:29.3382297+08:00"
     }
   ]
 }

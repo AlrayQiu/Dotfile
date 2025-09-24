@@ -1,11 +1,13 @@
 {
   "Shell": 1,
-  "ReplaceWinR": true,
+  "ReplaceWinR": false,
   "CloseShellAfterPress": true,
   "LeaveShellOpen": false,
   "RunAsAdministrator": true,
   "UseWindowsTerminal": true,
   "ShowOnlyMostUsedCMDs": true,
   "ShowOnlyMostUsedCMDsNumber": 5,
-  "CommandHistory": {}
+  "CommandHistory": {
+    "C:\\Users\\alray\\AppData\\Roaming\\FlowLauncher": 1
+  }
 }

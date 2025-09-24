@@ -1,6 +1,11 @@
+# install apps
+. '.\scripts\install-software.ps1'      # apps
+. '.\scripts\install-wsl.ps1'           # wsl
+. '.\scripts\flow-launcher-setup.ps1' # flow luancher
+
 if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
     $setupPath = Join-Path $PSScriptRoot 'setup.ps1'
-    Start-Process powershell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File `"$setupPath`"' -Verb RunAs -Wait
+    Write-Host "Run sudo pwsh $setupPath"
     exit
 }
 
@@ -9,10 +14,9 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 $ErrorActionPreference = 'Stop'
 Set-Location -Path $PSScriptRoot
 
-# Setup
+# uninstall
 
 # debloat
-. '.\scripts\install-software.ps1' # apps
-. '.\scripts\win11debloat.ps1' # windows
-. '.\scripts\install-wsl.ps1' # wsl
-. '.\scripts\flow-launcher-plugins.ps1'
+. '.\scripts\win11debloat.ps1'           # windows
+. '.\scripts\remove-windowsdefender.ps1' # windows defender
+

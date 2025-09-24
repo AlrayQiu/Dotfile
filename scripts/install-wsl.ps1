@@ -1,4 +1,8 @@
 
+$answer = Read-Host "install wsl ubuntu2404? ([ANY]y/n)"
+
+if ($answer -ne 'n') {
+
 wsl --install --no-distribution
 wsl --install Ubuntu-24.04
 
@@ -13,3 +17,4 @@ if(Test-Path "$env:HOMEPATH\.wslconfig" -PathType Leaf)
 }
 
 Copy-Item -Path ".\config\wsl" -Destination "$env:HOMEPATH" -Recurse -Force
+}
